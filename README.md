@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me by:
 Email:titah.ibrahim@hotmail.com 
-Phone:+1 438-989-5525
-linkedin :https://www.linkedin.com/in/ibrahim-titah-56022383/
+Phone:+1 438-989-5525 
 
 
 <!---
